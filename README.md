@@ -79,7 +79,7 @@ How to use this program?
 Simple: once inside the folder and all installation is complete enter the followig
 
 ```sh
-node findMovie.js "Name_of_movie" year_of_movie
+node findMovie.js "Name_of_movie" year_movie_released
 ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
