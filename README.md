@@ -54,13 +54,21 @@ In order to begin working on this project you need to install all of the [Builtw
 
 Installing NodeJs on: [Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg), [Linux](https://www.youtube.com/watch?v=K6QiSKy2zoM&), [Mac](https://www.youtube.com/watch?v=rF1ZHmqvm8I)
 
+(Not required but if you are interested in downloading) Installing Git for: [Windows](https://www.youtube.com/watch?v=J_Clau1bYco), [Linux](https://www.youtube.com/watch?v=ZMgLZUYd8Cw), [Mac](https://www.youtube.com/watch?v=LK0vMt_lEbQ)
+
 ### Installation
+0. 
+```sh
+Open [terminal](https://youtu.be/QROX039ckO8?t=25), or [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
+```
 1. Clone the Repo
 ```sh
-git clone https://github.com/rene415/movieFinder && cd movieFinder
-
+git clone https://github.com/rene415/movieFinder
+or download the zip file from [HERE](https://github.com/rene415/movieFinder/archive/master.zip)
 ```
-2. Install all the node modules
+2. go into the folder
+
+3. Install all the node modules
 ```sh
 npm install npm@latest
 ```
@@ -68,17 +76,7 @@ npm install npm@latest
 ```sh
 npm install
 ```
-4. Install Nodemon
-```sh
-sudo npm install -g nodemon
-```
-5. Run the Nodemon Server
-```sh
-nodemon
-```
-6. Access the the website posted to the console
-[htt]
-
+4. 
 <!-- USAGE EXAMPLES --
 ## Usage
 
