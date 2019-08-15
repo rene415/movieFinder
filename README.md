@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <img src="masterScreenshot.png" alt="Logo" width="800" height="400">
+  <img src="masterScreenshot.png" alt="Logo" width="900" height="300">
 </div>
 This is a script to help you get magnet links to your favority movie!
 
