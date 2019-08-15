@@ -142,4 +142,3 @@ Project Link: [movieFinder](https://github.com/rene415/movieFinder)
 ## Acknowledgements
 * [Best-README-template](https://github.com/othneildrew/Best-README-Template)
 * [Choose an Open Source License](https://choosealicense.com)
-* [Animate.css](https://daneden.github.io/animate.css)
