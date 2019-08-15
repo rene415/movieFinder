@@ -52,7 +52,7 @@ If you know a little bit of programing, cool you are already ahead of the game.
 
 In order to begin working on this project you need to install all of the [Builtwith](#built-with) frameworks
 
-Youtube some tutorials on how to install all of those requisites:
+Installing NodeJs on: [Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg), [Linux](https://www.youtube.com/watch?v=K6QiSKy2zoM&), [Mac](https://www.youtube.com/watch?v=rF1ZHmqvm8I)
 
 ### Installation
 1. Clone the Repo
