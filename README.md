@@ -57,7 +57,7 @@ Installing NodeJs on: [Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg), [L
 (Not required but if you are interested in downloading) Installing Git for: [Windows](https://www.youtube.com/watch?v=J_Clau1bYco), [Linux](https://www.youtube.com/watch?v=ZMgLZUYd8Cw), [Mac](https://www.youtube.com/watch?v=LK0vMt_lEbQ)
 
 ### Installation
-0. ```Open``` [Terminal](https://youtu.be/QROX039ckO8?t=25)```, or ```[CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
+0. Open [Terminal](https://youtu.be/QROX039ckO8?t=25)```, or ```[CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
 1. Clone the Repo
 ```git clone https://github.com/rene415/movieFinder```
 or download the zip file from [HERE](https://github.com/rene415/movieFinder/archive/master.zip)
@@ -72,10 +72,15 @@ npm install npm@latest
 ```sh
 npm install
 ```
-<!-- USAGE EXAMPLES --
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+How to use this program?
+
+Simple: ```once inside the folder and all installation is complete enter the following```
+
+```sh
+node findMovie.js "Name_of_movie" year_of_movie
+```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -106,21 +111,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rene Ramirez - [@ReneMotivator](https://twitter.com/ReneMotivator)
 
-Project Link: [https://github.com/rene415/HackathonWebsite](https://github.com/rene415/HackathonWebsite)
+Project Link: [movieFinder](https://github.com/rene415/movieFinder)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Best-README-template](https://github.com/othneildrew/Best-README-Template)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
