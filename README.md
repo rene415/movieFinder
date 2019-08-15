@@ -58,7 +58,7 @@ Installing NodeJs on: [Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg), [L
 
 ### Installation
 0. 
-Open [terminal](https://youtu.be/QROX039ckO8?t=25), or [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
+    Open [terminal](https://youtu.be/QROX039ckO8?t=25), or [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
 1. Clone the Repo
 ```
 git clone https://github.com/rene415/movieFinder
