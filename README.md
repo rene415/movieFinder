@@ -28,49 +28,36 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <img src="screenshot.png" alt="Logo" width="550" height="500">
+  <img src="masterScreenshot.png" alt="Logo" width="550" height="500">
 </div>
-This website will help 42 Silicon Valley event coordinators accept Hackathons hosted by anyone easily.
-
-Main purpose of the website is to facilitate the progress and shorten the time needed to accept a hackathon.
+This is a script to help you get magnet links to your favority movie!
 
 Here is how it works: 
-* Step 1: Student requests a hackathon via email
-* Step 2: We send site that handles hackathon requests: https://hackathons.42.us.org/Request-A-Hackathon
-* Step 3: Email notification + admin board(https://hackathon.42.us.org/admin/42/), message to accept/alter the dates requested for hackathon
-* Step 4: Progress bar for hackathon, all the required documents should be turned in before fully confirming the event
-    * Itenerary
-    * Site Visit
-    * Liability Waiver
-    * Equipment Insurance
-    * Final Count of Chaperones
-* Step 5: Confirm the event and send invoice
+* Step 1: Find the movie you wish to get
+* Step 2: in terminal/command prompt type the movie name with the year
+* Step 3: Get your download link saved to a file
 
-This is an internal project, but documentation is provided just in case anyone wants to see how it works and maybe help improve it. 
+I have been working on this script fro 2 days not all bugs are fixed
 
 ### Built With
 The following project was created with:
 * [Node JS](https://nodejs.org)
-* [React JS](https://reactjs.org)
-* [Bootstrap](https://getbootstrap.com)
-* [MySQL](http://mysql.com)
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In order to get started with this knowing JavaScript is required but not mandatory, you will learn as you go along.
+If you know a little bit of programing, cool you are already ahead of the game. 
 
 ### Prerequisites
 
 In order to begin working on this project you need to install all of the [Builtwith](#built-with) frameworks
 
-Youtube some tutorials on how to install all of those requisites. (MySQL was the hardest to install, but it was really easy)
+Youtube some tutorials on how to install all of those requisites:
 
 ### Installation
 1. Clone the Repo
 ```sh
-git clone https://github.com/rene415/HackathonWebsite.git && cd HackathonWebsite
+git clone https://github.com/rene415/movieFinder && cd movieFinder
 
 ```
 2. Install all the node modules
