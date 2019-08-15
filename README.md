@@ -83,18 +83,22 @@ Simple: once inside the folder and all installation is complete enter the follow
 node findMovie.js "Name_of_movie" year_movie_released
 ```
 return should be
-```**Name_of_movie (year_movie_released) has been added to movies.csv**
+```
+**Name_of_movie (year_movie_released) has been added to movies.csv**
 name:
    Name.of.movie.(year_movie_released).1080p.BluRay.H264.AAC-RARBG
 torrent:
-         magnet:?xt=urn:btih:238ef9e616dceeec893d4ff3b2a52a32a83c5db7&dn=Name.of.movie.(year_movie_released).1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce```
+         magnet:?xt=urn:btih:238ef9e616dceeec893d4ff3b2a52a32a83c5db7&dn=Name.of.movie.(year_movie_released).1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce
+```
 
 Example
 
 ```sh
 node findMovie.js "Dumbo" 2019
 ```
-retrurn should be
+
+return should be
+
 ```**Dumbo (2019) has been added to movies.csv**
 name:
    Dumbo.2019.1080p.BluRay.H264.AAC-RARBG
