@@ -86,5 +86,5 @@ process.argv.forEach((val, index) => {
     }
 });
 
-//clear();
+clear();
 search(titleOfMovieToFind, yearOfMovie);
