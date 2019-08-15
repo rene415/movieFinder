@@ -30,12 +30,12 @@
 <div align="center">
   <img src="masterScreenshot.png" alt="Logo" width="900" height="300">
 </div>
-This is a script to help you get magnet links to your favority movie!
+This is a script to help you get magnet links to your favorite movie!
 
 Here is how it works: 
-* Step 1: Find the movie you wish to get
+* Step 1: Find the movie you wish to get with the date it was released
 * Step 2: in terminal/command prompt type the movie name with the year
-* Step 3: Get your download link saved to a file
+* Step 3: Get your download link saved to a file called movies.csv
 
 I have been working on this script fro 2 days not all bugs are fixed
 
