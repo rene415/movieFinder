@@ -57,7 +57,7 @@ Installing NodeJs on: [Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg), [L
 (Not required but if you are interested in downloading) Installing Git for: [Windows](https://www.youtube.com/watch?v=J_Clau1bYco), [Linux](https://www.youtube.com/watch?v=ZMgLZUYd8Cw), [Mac](https://www.youtube.com/watch?v=LK0vMt_lEbQ)
 
 ### Installation
-0. Open [Terminal](https://youtu.be/QROX039ckO8?t=25), or [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
+0. ```sh Open``` [Terminal](https://youtu.be/QROX039ckO8?t=25)```sh, or ```[CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)
 1. Clone the Repo
 ```sh git clone https://github.com/rene415/movieFinder```
 or download the zip file from [HERE](https://github.com/rene415/movieFinder/archive/master.zip)
