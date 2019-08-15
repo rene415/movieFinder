@@ -76,7 +76,7 @@ npm install
 
 How to use this program?
 
-Simple: ```once inside the folder and all installation is complete enter the following```
+Simple: once inside the folder and all installation is complete enter the followig
 
 ```sh
 node findMovie.js "Name_of_movie" year_of_movie
