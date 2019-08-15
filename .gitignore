@@ -58,3 +58,4 @@ typings/
 .env
 
 # next.js build output
+keys.json

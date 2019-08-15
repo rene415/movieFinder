@@ -35,7 +35,7 @@ function ft_grabMovie(link, title){
                     const
                         torrentLink = $(el).attr('href');
                 if(link != "http://playtorrent.org/estrenos" && link != "http://playtorrent.org/mejor-valoradas" && link != undefined && title != /\d/g){
-                    fs.appendFileSync('horror.csv',`${englishTitle +" "+yearOfMovie},${title},${torrentLink},${englishTitle}\n`);
+                    fs.appendFileSync('new movies.csv',`${englishTitle +" "+yearOfMovie},${title},${torrentLink},${englishTitle}\n`);
                 }
                 });  
             }
