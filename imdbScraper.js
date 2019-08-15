@@ -45,7 +45,6 @@ function search(){
                 // log(/\(([^)]+)\)/.exec(movies[i].title)[1]);
                 movie=(movies[i].title);
                 imdbId=movies[i].id;
-                log(imdbId)
                 break;
             }
         }
