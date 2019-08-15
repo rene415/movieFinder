@@ -83,7 +83,7 @@ Simple: once inside the folder and all installation is complete enter the follow
 node findMovie.js "Name_of_movie" year_movie_released
 ```
 return should be
-```
+```sh
 **Name_of_movie (year_movie_released) has been added to movies.csv**
 name:
    Name.of.movie.(year_movie_released).1080p.BluRay.H264.AAC-RARBG
