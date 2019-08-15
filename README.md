@@ -107,6 +107,8 @@ torrent:
          magnet:?xt=urn:btih:a6f7229f820ef02175328144c885a0f3dce9bd8c&dn=Dumbo.2019.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.ra
 rbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce
 ```
+
+You will find all movies in a file called movies.csv
 <!-- Contribute -->
 ## Contributing
 
